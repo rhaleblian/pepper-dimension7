@@ -1,4 +1,4 @@
-# Dimension 7
+# dimension7
 
 A 7-oscillator chorusing effect for Bela Pepper.
 
